@@ -45,6 +45,18 @@
 
   > Combines multiple retrieval strategies for better performance.
 
+* **[Do Current Retrievers Cover All the Evidence? A Controlled Study of Conjunctive Cross-Page Retrieval](https://arxiv.org/abs/2607.24165)** (2026)
+
+  > Introduces n-Clue, a controlled benchmark for testing whether retrieval covers every required condition across document pages.
+
+* **[ReinPool: Reinforcement Learning Pooling Multi-Vector Embeddings for Retrieval System](https://arxiv.org/abs/2601.07125)** (2026)
+
+  > Uses reinforcement learning to pool multi-vector embeddings into compact representations for retrieval.
+
+* **[Annotation-Free Reinforcement Learning Query Rewriting via Verifiable Search Reward](https://arxiv.org/abs/2507.23242)** (2025)
+
+  > Trains query rewriting without human rewrite labels by using verifiable search rewards.
+
 ## Foundations
 
 * **[Dense Passage Retrieval (DPR)](https://arxiv.org/abs/2004.04906)**
