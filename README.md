@@ -45,6 +45,18 @@
 
   > Combines multiple retrieval strategies for better performance.
 
+* **[ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2502.15543)** (2025)
+
+  > Suppresses unfaithfulness-associated FFNs and adapts the model toward retrieved context.
+
+* **[ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance](https://arxiv.org/abs/2502.17057)** (2025)
+
+  > Jointly optimizes LLM-based query expansion and a dense retriever.
+
+* **[SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2606.27786)** (2026)
+
+  > Adaptively modulates FFN contributions during generation to mitigate context–memory conflicts.
+
 ## Foundations
 
 * **[Dense Passage Retrieval (DPR)](https://arxiv.org/abs/2004.04906)**
